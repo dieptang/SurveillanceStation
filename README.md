@@ -2,3 +2,6 @@
 ---
 ### Hướng dẫn kích hoạt Surveillance Station trên DSM 6 và 7
 - Link chi tiết
+
+
+Phiên bản này đầy đủ hơn bên Kaitiz nhé, bên đấy mình thấy thiếu file.
